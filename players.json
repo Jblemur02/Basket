@@ -55,6 +55,62 @@
         "mid_range": 30,
         "paint": 35
       }
+    },
+    {
+      "name": "Liam Donovan",
+      "percentages": {
+        "three_pointers": 48,
+        "free_throws": 95,
+        "mid_range": 65,
+        "paint": 75
+      },
+      "chances": {
+        "three_pointers": 45,
+        "mid_range": 25,
+        "paint": 30
+      }
+    },
+    {
+      "name": "Sophia Hayes",
+      "percentages": {
+        "three_pointers": 55,
+        "free_throws": 90,
+        "mid_range": 60,
+        "paint": 70
+      },
+      "chances": {
+        "three_pointers": 40,
+        "mid_range": 40,
+        "paint": 20
+      }
+    },
+    {
+      "name": "Aiden Clark",
+      "percentages": {
+        "three_pointers": 45,
+        "free_throws": 85,
+        "mid_range": 50,
+        "paint": 80
+      },
+      "chances": {
+        "three_pointers": 35,
+        "mid_range": 30,
+        "paint": 35
+      }
+    },
+    {
+      "name": "Olivia Stark",
+      "percentages": {
+        "three_pointers": 42,
+        "free_throws": 87,
+        "mid_range": 55,
+        "paint": 72
+      },
+      "chances": {
+        "three_pointers": 30,
+        "mid_range": 40,
+        "paint": 30
+      }
     }
   ]
 }
