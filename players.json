@@ -1,0 +1,60 @@
+{
+  "players": [
+    {
+      "name": "Jethro Blemur",
+      "percentages": {
+        "three_pointers": 20,
+        "free_throws": 88,
+        "mid_range": 40,
+        "paint": 70
+      },
+      "chances": {
+        "three_pointers": 40,
+        "mid_range": 10,
+        "paint": 50
+      }
+    },
+    {
+      "name": "Alana Rivers",
+      "percentages": {
+        "three_pointers": 35,
+        "free_throws": 92,
+        "mid_range": 50,
+        "paint": 60
+      },
+      "chances": {
+        "three_pointers": 30,
+        "mid_range": 40,
+        "paint": 30
+      }
+    },
+    {
+      "name": "Marcus Steele",
+      "percentages": {
+        "three_pointers": 28,
+        "free_throws": 85,
+        "mid_range": 45,
+        "paint": 80
+      },
+      "chances": {
+        "three_pointers": 25,
+        "mid_range": 25,
+        "paint": 50
+      }
+    },
+    {
+      "name": "Sierra Cruz",
+      "percentages": {
+        "three_pointers": 40,
+        "free_throws": 89,
+        "mid_range": 55,
+        "paint": 65
+      },
+      "chances": {
+        "three_pointers": 35,
+        "mid_range": 30,
+        "paint": 35
+      }
+    }
+  ]
+}
